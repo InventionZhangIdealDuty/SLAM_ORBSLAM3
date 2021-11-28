@@ -2,13 +2,12 @@ ORBSLAM3环境配置：
 参考  https://www.freesion.com/article/59651101657/
 
 
+CMake安装流程：
+参考：https://blog.csdn.net/gg864461719/article/details/116652655
 
-
-CMake安装：
-https://blog.csdn.net/gg864461719/article/details/116652655
 ubuntu16.04下opencv3.4.1的安装及测试（含ippicv离线配置过程）
-https://blog.csdn.net/weixin_42203839/article/details/107684563
-Ubuntu16.04安装Pangolin过程出错问题（runtime_error）排查记录
-https://blog.csdn.net/furtherview/article/details/120194867
+参考：https://blog.csdn.net/weixin_42203839/article/details/107684563
 
-不要安装master分支的，报错……切换到v0.6没有问题了
+Ubuntu16.04安装Pangolin过程出错问题（runtime_error）排查记录
+参考：https://blog.csdn.net/furtherview/article/details/120194867
+不要安装master分支的，经常报错，搞了半天……然后切换到tag分支后v0.6没有问题了
